@@ -1,2 +1,2 @@
 # Joshy
-I am a coder/leaner
+I am a coder/learner
